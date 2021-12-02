@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm [Adam](https://adamcowley.co.uk), a data-focussed developer based in [Swindon, UK](https://en.wikipedia.org/wiki/Swindon).  I'm currently working on improving Developer Experience at [Neo4j](https://neo4j.com), focussing on the way developers learn and providing documentation, examples, tools and starter kits to enable developers to get started quickly with their chosen language or framework.
+I'm [Adam](https://adamcowley.co.uk), a full-stack developer based in [Swindon, UK](https://en.wikipedia.org/wiki/Swindon).  I'm currently working on improving Developer Experience at [Neo4j](https://neo4j.com), focussing on the way developers learn and providing documentation, examples, tools and starter kits to enable developers to get started quickly with their chosen language or framework.
 
 If you have any questions on any of my repositories, feel free to open an issue or [reach out on Twitter](https://twitter.com/adamcowley) or [LinkedIn](https://www.linkedin.com/in/adamcowley/). 
 
